@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1731551583.02839 "c:/Users/SANTIAGO/Desktop/practica ciclos/Taller2/Taller2/Taller2.tex" "Taller2.pdf" "Taller2" 1731551585.16169 2
+["pdflatex"] 1731552117.52859 "c:/Users/SANTIAGO/Desktop/practica ciclos/Taller2/Taller2/Taller2.tex" "Taller2.pdf" "Taller2" 1731552120.46017 0
   "C:/Users/SANTIAGO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731477232 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/SANTIAGO/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1720447601 24266132 586614b6a4ff48ac004341410399cfb1 ""
   "C:/Users/SANTIAGO/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1233951848 1120 1e8878807317373affa7f7bba4cf2f6a ""
@@ -23,7 +23,6 @@
   "C:/Users/SANTIAGO/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
   "C:/Users/SANTIAGO/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmss10.tfm" 1136765053 1316 b636689f1933f24d1294acdf6041daaa ""
   "C:/Users/SANTIAGO/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
-  "C:/Users/SANTIAGO/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmtt10.tfm" 1136765053 768 1321e9409b4137d6fb428ac9dc956269 ""
   "C:/Users/SANTIAGO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/SANTIAGO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/SANTIAGO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247596667 32001 6aeea3afe875097b1eb0da29acd61e28 ""
@@ -231,13 +230,13 @@
   "C:/Users/SANTIAGO/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1695383086 2269 4fe6fb3396214c91f164d45faf9bec45 ""
   "C:/Users/SANTIAGO/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1695383086 20785 f7d1133a287929598a897c93f8f4c44b ""
   "Imagen2.png" 1731550212 145982 b86678f11887d14dfe403647c1566cbc ""
-  "Taller2.aux" 1731551584 3980 5ffa333fb0d31515f7b909f6d1942294 "pdflatex"
-  "Taller2.tex" 1731551579 23909 f6350282f9a18d60ea1b9b01708731f7 ""
+  "Taller2.aux" 1731552120 3980 5ffa333fb0d31515f7b909f6d1942294 "pdflatex"
+  "Taller2.tex" 1731552113 23854 b9c786dd780e2f0449d92e775042ca5f ""
   "Taller2_P1.jpg" 1731547631 493286 71369ef2824abda67445feb4284ab3fe ""
   "Taller2_P2.jpg" 1731547633 354275 caa13ca439824b8f8b58a8fcf69f2dc6 ""
   "Taller2_P3.jpg" 1731547634 345633 2679274f552657e8f291695cdd96ecfe ""
   "Taller2_P4.jpg" 1731547636 342367 8922bcd9c5c64db441b34defc010406d ""
-  "c:/Users/SANTIAGO/Desktop/practica ciclos/Taller2/Taller2/Taller2.tex" 1731551579 23909 f6350282f9a18d60ea1b9b01708731f7 ""
+  "c:/Users/SANTIAGO/Desktop/practica ciclos/Taller2/Taller2/Taller2.tex" 1731552113 23854 b9c786dd780e2f0449d92e775042ca5f ""
   (generated)
   "Taller2.aux"
   "Taller2.log"
